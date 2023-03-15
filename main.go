@@ -22,4 +22,5 @@ func main() {
 	fmt.Printf("\n")
 	fmt.Printf("%f \n", k)
 	fmt.Printf("%e \n", k)
+	fmt.Scanln()
 }
